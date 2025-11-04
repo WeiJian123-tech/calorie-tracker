@@ -1,2 +1,3 @@
 # calorie-tracker
-A Python program that tracks your calories 
+
+A Python program that tracks your calories
