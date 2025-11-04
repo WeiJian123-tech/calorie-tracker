@@ -16,9 +16,11 @@ eggs/
 .eggs/
 bin/
 /bin/
+./bin
 lib/
 lib64/
 /lib64/
+./lib64
 parts/
 sdist/
 var/
